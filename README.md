@@ -25,9 +25,6 @@ $ yarn install or yarn
 $ yarn run start
 ```
 
-$ yarn
-$ Yarn start:dev
-
 ```
 # watch mode
 $ yarn run start:dev
